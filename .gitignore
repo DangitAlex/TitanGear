@@ -49,7 +49,7 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Binary Files
-#Binaries/*
+Binaries/*
 
 # Builds
 Build/*
@@ -68,3 +68,10 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Starter Content
+Content/StarterContent/*
+Content/Geometry/*
+Content/Mannequin/*
+Content/ThirdPerson/*
+Content/ThirdPersonCPP/*
